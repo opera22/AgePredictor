@@ -2,7 +2,7 @@
 Simply enter your name, and the program will guess your age, as well as tell you
 how many people in the world have that name.
 The program uses built-in Java methods to send an HTTP request that retrieves a string in JSON format.
-It then needs to be parsed, which is accomplished in just a few lines of code
+The string then needs to be parsed, which is accomplished in just a few lines of code
 by using a third-party library.
 
 # Environment
