@@ -13,7 +13,7 @@ by using a third-party library.
 # Execution
 
 * Make sure you aren't missing any libraries, and hit Run. It should look like this:
-![screenshot of user input prompt and execution](../screenshot.png)
+![screenshot of user input prompt and execution](screenshot.png)
 
 # Useful Websites
 * [Sample API for testing](https://jsonplaceholder.typicode.com/users)
