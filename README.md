@@ -7,7 +7,7 @@ by using a third-party library.
 
 # Environment
 * IntelliJ IDEA or any other IDE with Java integrated
-* **Most importantly**, you will need [this](https://github.com/stleary/JSON-java) JSON parser external library.
+* **Most importantly**, you will need to import [this](https://github.com/stleary/JSON-java) JSON parser external library.
 
 
 # Execution
